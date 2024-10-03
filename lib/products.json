@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Monitor LG 22",
+    "price": "$99.99",
+    "description": "A high-quality 22-inch monitor by LG, perfect for work and play.",
+    "image": "img1"
+  },
+  {
+    "id": "2",
+    "name": "Aesthetic Mug",
+    "price": "$19.99",
+    "description": "A stylish mug to brighten your mornings with coffee or tea.",
+    "image": "img2"
+  },
+  {
+    "id": "3",
+    "name": "Earphones",
+    "price": "$34.99",
+    "description": "Noise-canceling earphones with superior sound quality.",
+    "image": "img3"
+  },
+  {
+    "id": "4",
+    "name": "Airpods",
+    "price": "$29.99",
+    "description": "Wireless Airpods for seamless music and calls.",
+    "image": "img4"
+  }
+]
